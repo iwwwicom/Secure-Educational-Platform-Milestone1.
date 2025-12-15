@@ -1,4 +1,4 @@
-# 🛡️ Secure Educational Platform - Milestone 1 code Implementation 🛡️
+#  Secure Educational Platform - Milestone 1 code Implementation 
 
 ## Project Title
 Software Security Project - Milestone 1: Threat Modeling and Secure Code Implementation
@@ -13,7 +13,7 @@ Software Security Project - Milestone 1: Threat Modeling and Secure Code Impleme
 
 ---
 
-## 🚀 Repository Contents
+##  Repository Contents
 This repository contains the **SECURE** version of the Educational Platform website, reflecting the mitigations implemented based on the threat model in our Milestone 1 Report.
 
 ### Implemented Security Mitigations:(ALL THOSE FILES ARE INSIDE THE FOLDER CALLED metgation -->THIS WHAT I ADDED)
@@ -26,7 +26,7 @@ This repository contains the **SECURE** version of the Educational Platform webs
 
 ---
 
-## 📄 Final Report Link
+##  Final Report Link
 The full Threat Modeling report (Milestone 1 DOCX/PDF) detailing the assets, architecture, STRIDE, DREAD analysis, and mitigation explanations is located here:
 
 https://studentaast-my.sharepoint.com/:w:/g/personal/a_zidan12251_student_aast_edu/IQA6wEYJfUklRJ3n-CNHY-uXAbtbaihbExakYr6r0BawzgE?e=SK2e9s
