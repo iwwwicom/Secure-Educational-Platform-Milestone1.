@@ -27,6 +27,6 @@ This repository contains the **SECURE** version of the Educational Platform webs
 ---
 
 ##  Final Report Link
-The full Threat Modeling report (Milestone 1 DOCX/PDF) detailing the assets, architecture, STRIDE, DREAD analysis, and mitigation explanations is located here:
+The full Threat Modeling report (Milestone 1 DOCX) detailing the assets, architecture, STRIDE, DREAD analysis,Attack Tree, and mitigation explanations is located here:
 
 https://studentaast-my.sharepoint.com/:w:/g/personal/a_zidan12251_student_aast_edu/IQA6wEYJfUklRJ3n-CNHY-uXAbtbaihbExakYr6r0BawzgE?e=SK2e9s
